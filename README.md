@@ -1,8 +1,8 @@
 # Car Price Prediction Project
 
-![Car Price Prediction](images/car_price_prediction.jpg)
+![Car Price Prediction](https://miro.medium.com/v2/resize:fit:648/1*kQBj7l-Y1WPZfX9nKIYL1Q.jpeg)
 
-Welcome to the Car Price Prediction project! In this project, we aim to develop a machine learning model that predicts the price of cars based on various features and attributes. This README.md file will guide you through the project's structure, usage, and how to get started.
+- Welcome to the Car Price Prediction project! In this project, we aim to develop a machine learning model that predicts the price of cars based on various features and attributes. This README.md file will guide you through the project's structure, usage, and how to get started.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ Once you have set up the environment, you can start using the project. Here's ho
 
 2. Run the data processing and model training scripts:
    ```
-   python car_price_prediction.py
+   python car_price_prediction.ipynb
    ```
 
 3. The script will load the data, preprocess it, train the model, and evaluate its performance.
@@ -71,9 +71,4 @@ We welcome contributions to improve this project! If you find any issues or have
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-Enjoy your journey through the Car Price Prediction project! If you have any questions or need further assistance, please don't hesitate to reach out.
-```
