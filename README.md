@@ -24,7 +24,7 @@ To get started with the project, you need to set up your development environment
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/car-price-prediction.git
+   git clone https://github.com/ChetanChoudhary007/car-price-prediction.git
    ```
 
 2. Navigate to the project directory.
